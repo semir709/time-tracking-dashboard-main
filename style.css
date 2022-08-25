@@ -354,5 +354,47 @@ body {
 }
 
 @media (max-width: 390px) {
+
+    .block {
+        height: 150px;
+    }
+
+    .user-info {
+        padding: 0px 20px;
+    }
+
+    .img-holder {
+        width: 70px;
+        height: 70px;
+        margin-bottom: 0px;
+      }
+
+    .info-det h1 {
+        font-size: 20px;
+    }
+
+    .info-det p {
+        font-size: 13px;
+    }
+
+    .options ul {
+        margin-top: 30px;
+    }
+
+    .options li {
+        font-size: 16px;
+    }
+
+    .role p {
+        font-size: 20px;
+    }
+
+    .role-info h2 {
+        font-size: 35px;
+    }
+
+    .role-info p {
+        font-size: 15px;
+    }
     
 }
